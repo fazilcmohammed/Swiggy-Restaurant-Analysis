@@ -13,7 +13,7 @@ Core SQL Skills: Complex Table Creation, ETL (Copy), Data Cleaning (Regular Expr
 Business Intelligence: Data-driven decision making, identifying market trends, and evaluating Value for Money (VFM) metrics.
 
 ## 📁 Dataset Details
-Source: Kaggle: Swiggy Restaurants Dataset
+Source: [Kaggle: Swiggy Restaurants Dataset](https://www.kaggle.com/datasets/ashishjangra27/swiggy-restaurants-dataset)
 
 Total Records: 148,541
 
